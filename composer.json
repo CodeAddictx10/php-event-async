@@ -1,0 +1,6 @@
+{
+    "require": {
+        "react/event-loop": "^1.4",
+        "amphp/amp": "^3.0"
+    }
+}
